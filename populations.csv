@@ -1,0 +1,5 @@
+age_group_id,location_id,year_id,sex_id,population,age_group_name,location_name,sex
+389,182,2021,1,138982.966056851,6-11 months,Malawi,Male
+389,184,2021,1,265132.899466036,6-11 months,Mozambique,Male
+389,191,2021,1,147616.465716536,6-11 months,Zambia,Male
+389,198,2021,1,113226.649953579,6-11 months,Zimbabwe,Male
